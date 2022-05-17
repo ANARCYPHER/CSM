@@ -1,10 +1,4 @@
-# CyberSpiders
-
-This is the frontend project of the CyberSpiders Team.
-
-## Preview
-
-Website: https://cyberspiders.vercel.app
+## CSM
 
 ## Technical Stack
 
